@@ -6,8 +6,6 @@ int main() {
 	bool oneUpMapsEnabled = getOneUpMapsSetting();
 	bool trueRandomEnabled = getTrueRandomSetting();
 
-	
-	
 	trueRandom(spotMapsEnabled, oneUpMapsEnabled, trueRandomEnabled);  
 
 }
